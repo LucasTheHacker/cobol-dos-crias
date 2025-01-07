@@ -7,9 +7,18 @@
       ***************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
-       WORKING-STORAGE SECTION.  
+       WORKING-STORAGE SECTION. 
+      * Variavel 77 = Publica para uso
+      * PIC = Definir o tipo da variavel
+      * Tipos: A - Letras
+      * X - Alfanumerico
+      * 9 - Numerico
+      * Tamanho de variaveis:
+      * X(<Tamanho da variavel>) Ex: X(20) pode ter 20 posicoes
+      * VALUE define o valor inicial da variavel  
        77  WRK-NOME PIC X(20) VALUE SPACES.
        77  WRK-SALARY PIC 9(4) VALUE ZEROS.
+      *************************************************** 
        PROCEDURE DIVISION.
            PERFORM BEGIN.
        BEGIN.
