@@ -44,6 +44,8 @@ Executar
   - V = Define o numero de casa decimais
   - Z = Oculta os 0 à esquerda no momento de printar a varíavel
   - \-Z = O sinal ( \- ) antes do Z indica que será mostrado o sinal do numero printado
+- 88 Variavel de lógica
+  - Dentro de uma variável primitiva, define-se uma variável do tipo lógico, podendo ser validada em condicionais, exemplo no programa [VARIAVEILNIVEL88](ProgramasCobol/VARIAVEISLOGICAS.cob)
 - 01-44 Para variáveis estruturadas, ou seja, semelhante a um objeto do java
   - Ex:
 
