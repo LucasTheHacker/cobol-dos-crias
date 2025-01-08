@@ -1,9 +1,9 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. VARIAVELNIVEL88.
       ***************************************************
-      * AUTHOR = BATISTA
-      * DATA = 23/12/2024
-      * Variáveis independentes (Tipo 77)
+      * AUTHOR = ARTHUR
+      * DATA = 07/01/2025
+      * VARIAVEIS LOGICAS (88)
       ***************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
